@@ -1,8 +1,6 @@
 # Microsoft-Foundation-Library
-Microsoft Foundation Library: BUltrasonicExpansion Project Overview
+BUltrasonicExpansion Project Overview
 ================================================================================
-   Microsoft Foundation Library: BUltrasonicExpansion Project Overview
-===============================================================================
 
 BUltrasonicExpansion Project Overview
 
