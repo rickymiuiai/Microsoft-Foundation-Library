@@ -63,3 +63,6 @@ If the application uses MFC (Microsoft Foundation Classes) in a shared DLL, you 
 
 For more information on these topics, refer to the section on redistributing Visual C++ applications in the MSDN documentation.
 /////////////////////////////////////////////////////////////////////////////
+For Further Inquiries or Suggestions:
+
+If you have additional questions or thoughts/suggestions regarding this project, please contact the corresponding author of this research at: hougangcmu@163.com
